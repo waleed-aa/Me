@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waleed-aa 
 - 👀 I’m interested in machine learning and software development
-- 🌱 I’m currently developing a recommender engine that makes viable movie suggestions to a user !
+- 🌱 I’m currently working on supervised deeplearning techniques!
 - 💞️ I’m looking to collaborate on data analytics projects
 - 📫 Reach me via email : wali01@qub.ac.uk
 
